@@ -16,6 +16,12 @@ how to :ref:`installation` the project.
 Contents
 --------
 
+Contents
+--------
+
+.. automodule:: src.test
+    :members:
+
 .. toctree::
 
    usage
